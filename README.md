@@ -1,12 +1,12 @@
 						Hi 👋, I'm Mohamed KETTANE
-					     A passionate QA & Devops Engineer from Morocco
+					     A passionate Software / QA Engineer from Morocco
 							     
 							    
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 							     
-🔭 I’m currently Learning QA and Devops best practices and  automation testing tools like : selenium, Robot framework, Cypress, Docker, Ansible, Terraform .... 
+🔭 I’m currently Learning Software and Devops best practices and  : springboot, react js, selenium, Robot framework, Cypress, Docker, Ansible, Terraform .... 
 
 📫 How to reach me mohamedkettane10@gmail.com
 
