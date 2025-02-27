@@ -1,5 +1,5 @@
 						Hi 👋, I'm Mohamed KETTANE
-					     A passionate Software / QA Engineer from Morocco
+					     A passionate Software Engineer from Morocco
 							     
 							    
 <div id="header" align="center">
